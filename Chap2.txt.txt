@@ -8,4 +8,10 @@ This is Siddharth Kumar From Giridih
 
 4) git add .
 
-5)
+5)git commit -m'Chap1.txt' && git commit -m'Chap2.txt'
+
+6)set the branch location and Git repository : git remote add gama https://github.com/nirmalya-dev/test-git.git
+
+7) Push the Git code: git push gama
+
+8) Finish

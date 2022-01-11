@@ -1,1 +1,11 @@
 This is Siddharth Kumar From Giridih
+
+1) Create branch: git branch gama
+
+2) see the list of branch: git branch --list
+
+3)switched to newly created branch gama : git checkout gama
+
+4) git add .
+
+5)

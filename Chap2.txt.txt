@@ -17,3 +17,11 @@ This is Siddharth Kumar From Giridih
 8) need "run git add ." before every commit.
 
 _______________________________________________________________________________________________________________
+
+1) For switching to a Branch : git checkout master
+
+2) Merging gama's Change to Master: git merge gama
+
+3) For pointing Master Branch For Updating Change in Github: git remote add master https://github.com/nirmalya-dev/test-git.git
+
+4) For pusging changes: git push master

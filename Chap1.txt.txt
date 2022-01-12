@@ -1,1 +1,3 @@
 This is Nirmalya Kundu for new branch beta
+
+1) Need how to to merge change of a brach to another branch?
